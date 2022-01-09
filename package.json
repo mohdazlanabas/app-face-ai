@@ -1,14 +1,14 @@
 {
-  "name": "face-recognition-video",
+  "name": "face-recognition",
   "version": "1.0.0",
-  "description": "Face Recongition from Video using face-api.js",
+  "description": "Using face-api.js",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js -L -e js,html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Prashant Kumar",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2"
